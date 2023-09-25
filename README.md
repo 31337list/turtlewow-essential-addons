@@ -3,18 +3,18 @@
 included addons:
 --------
 
-[AtlasLoot](https://github.com/31337list/turtlewow-essential-addons/tree/main/AtlasLoot)
+[AtlasLoot](https://github.com/31337list/turtlewow-essential-addons/tree/main/AtlasLoot#readme)
 
-BetterCharacterStats
+[BetterCharacterStats](https://github.com/31337list/turtlewow-essential-addons/tree/main/BetterCharacterStats#readme)
 
-Magnify
+[Magnify](https://github.com/31337list/turtlewow-essential-addons/tree/main/Magnify#readme)
 
-Mail
+[Mail](https://github.com/31337list/turtlewow-essential-addons/tree/main/Mail#readme)
 
-pfQuest
+[pfQuest](https://github.com/31337list/turtlewow-essential-addons/tree/main/pfQuest#readme)
 
-pfQuest-turtle
+[pfQuest-turtle](https://github.com/31337list/turtlewow-essential-addons/tree/main/pfQuest-turtle#readme)
 
-pfUI
+[pfUI](https://github.com/31337list/turtlewow-essential-addons/tree/main/pfUI#readme)
 
 - to learn more about an addon, click 1 of the addon folders in the directory above to open its readme file
