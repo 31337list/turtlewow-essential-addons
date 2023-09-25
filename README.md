@@ -3,7 +3,7 @@
 included addons:
 --------
 
-AtlasLoot
+[AtlasLoot](https://github.com/31337list/turtlewow-essential-addons/tree/main/AtlasLoot)
 
 BetterCharacterStats
 
