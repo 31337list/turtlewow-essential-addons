@@ -17,4 +17,4 @@ included addons:
 
 [pfUI](https://github.com/31337list/turtlewow-essential-addons/tree/main/pfUI#readme)
 
-- to learn more about an addon, click 1 of the addon folders in the directory above to open its readme file
+- click an addon to learn more about it
