@@ -16,4 +16,4 @@ pfQuest-turtle
 
 pfUI
 
-- Click on 1 of the addon folders in the directory above to read the addons readme to learn more about it
+- to learn more about an addon, click 1 of the addon folders in the directory above to open its readme file
