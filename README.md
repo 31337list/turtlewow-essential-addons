@@ -1,5 +1,3 @@
-# turtlewow essential addons
-
 included addons:
 --------
 
